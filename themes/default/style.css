@@ -123,6 +123,7 @@ rgba(0, 0, 0, 0)
     width: 100%;
     position: absolute;
     bottom: 0;
+    background-color:#0064d2;
 }
 
 #historico .senhas {
@@ -148,7 +149,7 @@ rgba(0, 0, 0, 0)
 
 
 /* cores - atendimento normal */
-#layout.normal { background-color: #0064d2; }
+#layout.normal { background-color: #0081ff; }
 #layout.normal #mensagem span { color: #fff; }
 #layout.normal #senha span { color: #ffcc29; font-size: 10em;}
 #layout.normal #local span { color: #fff; }
@@ -157,7 +158,7 @@ rgba(0, 0, 0, 0)
 #layout.normal #historico .senhas * { color: #fff; }
 
 /* cores - atendimento prioritario */
-#layout.prioridade { background-color: #a80303; }
+#layout.prioridade { background-color: #0081ff; }
 #layout.prioridade #senha-container span { color: #fff;}
 #layout.prioridade #senha span { color: #fff; font-size: 10em;}
 /*#layout.prioridade #historico .senhas { background-color: #f1f1f1; } */
