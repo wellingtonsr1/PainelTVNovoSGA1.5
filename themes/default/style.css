@@ -93,13 +93,15 @@ rgba(0, 0, 0, 0)
 }
 
 #mensagem span {
-    padding: 10px 29px;
+    adding-top: 30px;
+    padding-bottom: 5px;
     display: inline-block;
 }
 
 #senha {
     font-weight: bold;
     text-align: center;
+    padding-bottom: 25px;
 }
 
 /* local */
