@@ -31,7 +31,7 @@
         case 'local':
             ?>
             <!--<iframe id="slides-container"  scrolling="no" src="themes/default/videos/index.php" frameborder="0" ></iframe>-->
-            <video width="1200" height="675" autoplay controls loop>
+            <video width="1335" height="800" autoplay controls loop>
                 <source src="themes/default/videos/cartilha.mp4" type="video/mp4">
                 Seu navegador não suporta a reprodução de vídeo.
             </video>
