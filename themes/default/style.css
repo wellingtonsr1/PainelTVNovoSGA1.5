@@ -148,7 +148,7 @@ rgba(0, 0, 0, 0)
 
 
 /* cores - atendimento normal */
-#layout.normal { background-color: #216651; }
+#layout.normal { background-color: #0064d2; }
 #layout.normal #mensagem span { color: #fff; }
 #layout.normal #senha span { color: #ffcc29; font-size: 10em;}
 #layout.normal #local span { color: #fff; }
