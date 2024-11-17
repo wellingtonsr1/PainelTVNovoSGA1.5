@@ -162,7 +162,7 @@ rgba(0, 0, 0, 0)
 /* cores - atendimento prioritario */
 #layout.prioridade { background-color: #0081ff; }
 #layout.prioridade #senha-container span { color: #fff;}
-#layout.prioridade #senha span { color: #fff; font-size: 10em;}
+#layout.prioridade #senha span { color: #ffcc29; font-size: 10em;}
 /*#layout.prioridade #historico .senhas { background-color: #f1f1f1; } */
 #layout.prioridade #historico .senhas * { color: #fff; }
 
