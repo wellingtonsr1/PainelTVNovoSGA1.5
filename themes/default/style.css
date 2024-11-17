@@ -93,7 +93,7 @@ rgba(0, 0, 0, 0)
 }
 
 #mensagem span {
-    adding-top: 30px;
+    padding-top: 30px;
     padding-bottom: 5px;
     display: inline-block;
 }
