@@ -25,16 +25,16 @@
             break;
         case 'youtube':
             ?>
-            <!-- <iframe width="896" height="575" src="https://www.youtube.com/embed/ABVQXgr2LW4?&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-            <video width="1200" height="675" autoplay controls loop>
-                <source src="themes/default/videos/cartilha.mp4" type="video/mp4">
-                Seu navegador não suporta a reprodução de vídeo.
-            </video>
+            <iframe width="896" height="575" src="https://www.youtube.com/embed/ABVQXgr2LW4?&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <?php
             break;
         case 'local':
             ?>
-            <iframe id="slides-container"  scrolling="no" src="themes/default/videos/index.php" frameborder="0" ></iframe>
+            <!--<iframe id="slides-container"  scrolling="no" src="themes/default/videos/index.php" frameborder="0" ></iframe>-->
+            <video width="1200" height="675" autoplay controls loop>
+                <source src="themes/default/videos/cartilha.mp4" type="video/mp4">
+                Seu navegador não suporta a reprodução de vídeo.
+            </video>
             <?php
             break;
     }
