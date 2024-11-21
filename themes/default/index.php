@@ -32,7 +32,7 @@
             ?>
             <!--<iframe id="slides-container"  scrolling="no" src="themes/default/videos/index.php" frameborder="0" ></iframe>-->
             <video id="myvideo" width="100%" height="auto" controls="false" autoplay muted loop>
-                <source src="themes/default/videos/cartilha2.mp4" type="video/mp4">
+                <source src="themes/default/videos/cartilha.mp4" type="video/mp4">
                 Seu navegador não suporta a reprodução de vídeo.
             </video>
             <?php
